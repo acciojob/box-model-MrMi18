@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 .container{
-	background-color:grey;
+	background-color:lightgrey;
 	height:150px;
 	width:500px;
 	border-radius:70px ;
@@ -27,7 +27,7 @@
 #b3{
 	height:100px;
 	width:100px;
-	background-color:red;
+    background-color:red;	
 	display:inline-block;
 	border-radius:50px;
 }
