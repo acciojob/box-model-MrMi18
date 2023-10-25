@@ -27,7 +27,7 @@
 #b3{
 	height:100px;
 	width:100px;
-	background-color:rgb(255, 0, 0);
+	background-color:red;
 	display:inline-block;
 	border-radius:50px;
 }
