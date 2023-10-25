@@ -9,7 +9,7 @@
 	padding-top:50px;
 	
 }
-#b1{
+.b1{
 	height:100px;
 	width:100px;
 	border-radius:50px;
@@ -17,14 +17,14 @@
 	display:inline-block;
 	
 }
-#b2{
+.b2{
 	height:100px;
 	width:100px;
 	background-color:yellow;
 	border-radius:50px;
 	display:inline-block;
 }
-#b3{
+.b3{
 	height:100px;
 	width:100px;
     background-color:red;	
