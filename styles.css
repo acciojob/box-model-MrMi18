@@ -9,7 +9,7 @@
 	padding-top:50px;
 	
 }
-.b1{
+.green{
 	height:100px;
 	width:100px;
 	border-radius:50px;
@@ -17,14 +17,14 @@
 	display:inline-block;
 	
 }
-.b2{
+.yellow{
 	height:100px;
 	width:100px;
 	background-color:yellow;
 	border-radius:50px;
 	display:inline-block;
 }
-.b3{
+.red{
 	height:100px;
 	width:100px;
     background-color:red;	
